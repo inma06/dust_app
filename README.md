@@ -1,4 +1,7 @@
 # flutter_dustApp
 ## 플러터 미세먼지앱
 
-## Getting Started
+- Dio HTTP
+- 정부 공공 API
+- hive
+- ...
